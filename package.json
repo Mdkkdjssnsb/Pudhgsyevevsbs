@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shuddho11288/sdxl-imagine": "^1.1.0",
+    "@types/node": "^18.0.6",
+    "ainasepics": "^4.6.14",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "g4f": "^1.4.5",
+    "gpti": "^2.1.7",
+    "hercai": "^12.2.0",
+    "jarif-api": "^1.0.2",
+    "movie-info": "^3.0.2",
+    "pinterest-dl": "^1.0.1",
+    "rsnchat": "^4.0.1"
+  }
+}
